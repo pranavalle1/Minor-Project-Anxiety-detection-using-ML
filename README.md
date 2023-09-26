@@ -38,7 +38,7 @@ Once the model is selected, it needs to be trained on the preprocessed data. Thi
 The model's performance should be evaluated using appropriate metrics such as accuracy, precision, recall, F1-score, and possibly receiver operating characteristic (ROC) curves. The choice of evaluation metrics should align with the project's objectives and the practical implications of anxiety detection.
 
 ## Deployment (Optional)
-If resources and expertise permit, the trained model can be deployed as a web application or service, allowing real-time anxiety detection for individuals seeking help or support.
+
 
 ## Conclusion
 This minor project aims to leverage machine learning techniques to detect anxiety, providing a valuable tool for early intervention and support. By following the outlined objectives and steps, this project has the potential to contribute to the growing field of mental health technology, ultimately improving the lives of individuals struggling with anxiety disorders.
